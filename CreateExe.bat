@@ -1,0 +1,1 @@
+pyinstaller  --onefile --add-data phidget22.dll;. Phidget1012toOSC_python.py
