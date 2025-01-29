@@ -37,7 +37,7 @@ OSC_SERVER_PORT = 5000  # Replace with the OSC server's port
 OSC_CLIENT_IP = "127.0.0.1"  # Replace with the OSC client's IP
 OSC_CLIENT_PORT = 5001  # Replace with the OSC client's port
 
-OSCDefaultState = -1
+OSCDefaultState = 0
 noError = 1
 
 DESCRIPTION = "----------------- Phidget1012toOSC_python ---------------\n\n\
